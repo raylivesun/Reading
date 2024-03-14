@@ -1,9 +1,10 @@
+# POOMA Tutorials: Recommended Reading
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html><head>
 <!-- reading.html : tail end of POOMA tutorials --><!-- $Id: reading.html,v 1.1 2004/11/02 21:26:35 richi Exp $ -->
   <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
   <link type="text/css" rel="stylesheet" href="README_files/tutorial.css">
-  <title>POOMA Tutorials: Recommended Reading</title>
 </head>
 <body>
 <center>
@@ -91,7 +92,7 @@ Addison-Wesley, 1996, ISBN 0805316663.
 <br>
 </p>
 <center>
-Copyright © Los Alamos National
+Copyright ï¿½ Los Alamos National
 Laboratory 1998-2000
 </center>
 
