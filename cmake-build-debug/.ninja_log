@@ -1,0 +1,12 @@
+# ninja log v5
+7	121	1710457773869087997	CMakeFiles/Reading.dir/Line/times.cpp.o	fced0bfbb8ab60a4
+7	122	1710457773869087997	CMakeFiles/Reading.dir/Line/output.cpp.o	d54c3cb191db9f55
+121	140	1710457773889088290	CMakeFiles/Reading.dir/Line/starting.cpp.o	88e4458dbc9415cd
+140	158	1710457773905088523	CMakeFiles/Reading.dir/Line/features.cpp.o	ce96ab7dd0d0acc1
+158	173	1710457773921088757	CMakeFiles/Reading.dir/Line/standard.cpp.o	9f6f92b47c4e603c
+173	190	1710457773937088992	CMakeFiles/Reading.dir/Line/integer.cpp.o	d8b081e0f5ab1c1b
+190	206	1710457773953089226	CMakeFiles/Reading.dir/Line/point.cpp.o	4ac23ad23d902e2f
+6	608	1710457774357095131	CMakeFiles/Reading.dir/main.cpp.o	e812ddbab6698f74
+122	675	1710457774421096067	CMakeFiles/Reading.dir/Line/correct.cpp.o	1d19f64ffd71b0b5
+2	354	1710457803885526759	CMakeFiles/Reading.dir/Line/correct.cpp.o	1d19f64ffd71b0b5
+354	459	1710457803993528337	Reading	d74a39fc4b9746a5
